@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieDataBase-Prueba-BncoGYE/static/css/main.24175db5.css",
+    "main.js": "/MovieDataBase-Prueba-BncoGYE/static/js/main.6de0af95.js",
+    "static/js/453.7811d0e1.chunk.js": "/MovieDataBase-Prueba-BncoGYE/static/js/453.7811d0e1.chunk.js",
+    "index.html": "/MovieDataBase-Prueba-BncoGYE/index.html",
+    "main.24175db5.css.map": "/MovieDataBase-Prueba-BncoGYE/static/css/main.24175db5.css.map",
+    "main.6de0af95.js.map": "/MovieDataBase-Prueba-BncoGYE/static/js/main.6de0af95.js.map",
+    "453.7811d0e1.chunk.js.map": "/MovieDataBase-Prueba-BncoGYE/static/js/453.7811d0e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24175db5.css",
+    "static/js/main.6de0af95.js"
+  ]
+}
